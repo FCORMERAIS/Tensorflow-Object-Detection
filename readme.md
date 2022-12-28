@@ -16,4 +16,4 @@ Installez Numpy en utilisant la commande pip install numpy.
 # Exemple :
 
 [![example1](example1.PNG)]
-[![example2](example2.PNG)]
+[![example2](Example2.PNG)]
