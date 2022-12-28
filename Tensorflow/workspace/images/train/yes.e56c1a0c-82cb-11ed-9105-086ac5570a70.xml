@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.e56c1a0c-82cb-11ed-9105-086ac5570a70.jpg</filename>
+	<path>C:\Users\33771\Desktop\VS Window\IA\AppSleep\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\yes.e56c1a0c-82cb-11ed-9105-086ac5570a70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oui</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>291</ymin>
+			<xmax>447</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

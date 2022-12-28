@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Flavio.8d7b3a06-85d7-11ed-b563-086ac5570a70 copy.jpg</filename>
+	<path>C:\Users\33771\Desktop\VS Window\IA\AppSleep\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Flavio.8d7b3a06-85d7-11ed-b563-086ac5570a70 copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flavio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>181</ymin>
+			<xmax>434</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

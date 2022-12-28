@@ -1,0 +1,24 @@
+item { 
+	name:'Hello'
+	id:1
+}
+item { 
+	name:'Oui'
+	id:2
+}
+item { 
+	name:'No'
+	id:3
+}
+item { 
+	name:'Merci'
+	id:4
+}
+item { 
+	name:'I Love You'
+	id:5
+}
+item { 
+	name:'Flavio'
+	id:6
+}
